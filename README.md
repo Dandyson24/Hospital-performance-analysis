@@ -172,10 +172,7 @@ The risk-factor analysis revealed:
 The interactive Power BI dashboard provides a consolidated view of hospital performance, patient outcomes, chronic disease burden, physician workload and risk-factor patterns.
 
 **Dashboard screenshot:**
-
-Add your exported dashboard image here, for example:
-
-`![Hospital Operational Performance Dashboard]("C:\Users\user\Desktop\PERSONAL\2026 FOLDER\DATA  ANALYTICS\ZION HUB LECTURES\SQL\CAPSTONE\Real Faith Hospital dashboard.png")`
+`![Hospital Operational Performance Dashboard](https://github.com/Dandyson24/Hospital-performance-analysis/blob/main/Real%20Faith%20Hospital%20dashboard.png))`
 
 ## 💡 Recommendations to Management
 
@@ -195,8 +192,6 @@ The following limitations were identified:
 - Multiple admissions by the same patient may affect admission-level and patient-level prevalence estimates.
 - Disease-specific mortality percentages should be interpreted alongside the number of affected patients.
 - The observational dataset does not establish causal relationships between risk factors and patient outcomes.
-- The underlying causes of DAMA could not be established from the available variables.
-- Rounded dashboard KPI values require verification against exact admission and patient counts.
 
 ## 🎓 Skills Demonstrated
 
@@ -246,7 +241,7 @@ I welcome opportunities to collaborate on healthcare analytics, public health in
 
 **LinkedIn:** [https://www.linkedin.com/in/andrew-nwachimereze-o-6b429617/]
 
-**GitHub:** [Insert GitHub Profile URL]
+**GitHub:** [(https://github.com/Dandyson24)]
 
 ---
 
