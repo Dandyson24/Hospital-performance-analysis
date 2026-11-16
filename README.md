@@ -5,7 +5,6 @@
 ![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare%20Analytics-087E8B)
 ![SQL](https://img.shields.io/badge/Database-PostgreSQL-336791)
 ![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-F2C811)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
 
